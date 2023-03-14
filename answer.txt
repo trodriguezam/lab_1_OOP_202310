@@ -1,1 +1,3 @@
-text
+(1st commit was a blank .txt file)
+text (2nd commit)
+new text (3rd commit)
